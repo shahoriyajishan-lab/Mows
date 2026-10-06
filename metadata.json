@@ -1,0 +1,6 @@
+{
+  "name": "CipherWire",
+  "description": "Ultra-low latency, lightweight end-to-end encrypted audio, video, screen sharing & messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
